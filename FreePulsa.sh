@@ -10,12 +10,16 @@ white='\e[1;37m'
 yellow='\e[1;33m'
 sleep 1
 echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
-toilet -f standard -F gay "PULSAGRATIS"
+toilet -f standard -F gay "AzzamCyber"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
+echo ""
+echo "Peringatan ! : "Wajib Subscribe Chanel Azzam Cyber Script Berjalan Dengan Lancar & Pulsa Bisa Masuk"
+echo "ThanksTo:"
+echo "AZZAM CYBER TEAM"
 echo ""
 echo "Author : " Azzam Cyber"
 " Team : " JAWA CYBER TEAM"
-echo " Subscribe Me : " 085779515200"
+echo " Subscribe Me : "AzzamCyber"
 " Pesan : "Wajib Subscribe Ya Biar Pulsanya Masuk :) Like Juga:)"
 sleep 1
 echo "ThanksTo:"
